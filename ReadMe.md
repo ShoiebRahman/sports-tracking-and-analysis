@@ -6,7 +6,8 @@
 - Extracted key player movement metrics such as speed, acceleration, distance, and zone coverage for performance evaluation.
 
 - Used LSTM for tactical zone prediction, achieving over 90% accuracy in anticipating player movement across court zones.
-
+## Project Report
+[Project Report](ProjectReport__A_Hybrid_Approach_for_Real_Time_Sports_Analysis.pdf)
 ## Demo Video
 ![hippo](deepsort_output.gif)
 ![hippo](dashboard_analytics_video.gif)
