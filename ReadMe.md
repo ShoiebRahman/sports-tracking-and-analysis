@@ -8,4 +8,5 @@
 - Used LSTM for tactical zone prediction, achieving over 90% accuracy in anticipating player movement across court zones.
 
 ## Demo Video
-[Demo Video](demo/Test_clip.mp4)
+![hippo](deepsort_output.gif)
+
