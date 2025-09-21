@@ -9,4 +9,5 @@
 
 ## Demo Video
 ![hippo](deepsort_output.gif)
+![hippo](dashboard_analytics_video.gif)
 
